@@ -70,12 +70,12 @@ To set up the database, you can restore the backup file MedTechSaydaliaOnline.ba
 
 ### Technologies Used
 ---
-ASP.NET Core MVC: Web application framework
-Entity Framework Core: ORM for database access
-SQL Server: Database management system
-PayPal API: Payment integration
-SMTP: Email service for password reset
-Repository Pattern: For clean and maintainable code
+- ASP.NET Core MVC: Web application framework
+- Entity Framework Core: ORM for database access
+- SQL Server: Database management system
+- PayPal API: Payment integration
+- SMTP: Email service for password reset
+- Repository Pattern: For clean and maintainable code
 ---
 ### Demo
 
